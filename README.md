@@ -1,2 +1,2 @@
-# 1300
+# Assignments
 Assignment Partial Solutions 
